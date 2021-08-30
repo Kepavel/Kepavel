@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, it's Keparal👋
 
 <!--
 **Kepavel/Kepavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+
+
+- 🔭 I’m currently working in Beijing, and I am looking for some new friends
+- 🌱 I’m currently learning English and python, preparing for toefl in October
+- 🤔 I’m looking for help with CS phd applications and some university stuffs
+- 📫 How to reach me: keparal@outlook.com (feel free to email me, I'll reply to you as soon as possible)
+
+
